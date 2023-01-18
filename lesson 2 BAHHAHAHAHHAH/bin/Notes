@@ -1,0 +1,47 @@
+// Allow user to enter name
+Scanner scanner = new Scanner(System.in);
+
+//prompt user to input their name
+System.out.print("Enter your name; ");
+
+//Character variables
+final String playername = scammer.nextLine();
+final String mainCharacter = " " ;
+final String hotRobot = "Javier";
+final String sadRobot = "Dallas";
+final String crazyRobot = "Maisha";
+final String teacher = "Mr. Smith";
+final String teacher2 = "Ms. Peggy";
+final String ken = "Ken";
+final String johnathan = "Johnathan";
+final String vincent = "Vincent";
+final String chiYou = "ChiYou"
+
+//game variables
+int score = 0;
+final int okScore = 5;
+final int bestScore = 10;
+final int penalty = -10;
+
+final Date time = new Date();
+final SimpleDateFormat dformat = new SimpleDateFormat("hh:mm");
+
+//location names
+final String walmart = "walmart";
+final String school = "Dog Water Academy";
+final String kantanroom = "Kantan's room";
+final String hotRobotRoom = "My fancy robot room";
+final String sadrobotRoom = "Cry Den";
+final String crazyrobotRoom = "Torture Chamber";
+final String detention = "Detention Room";
+final String teacher1Room = "Room: 118";
+final String teacher2Room = "Room: 220";
+
+// dating location options names
+final String walmart = "Walmart";
+final String mcDonalds = "Mcdonalds";
+final String robotics = "Robotics";
+final String karenThaiFood = "KarenThaiFood";
+final String hmongVillage = "HmongVillage"
+
+//Starting
